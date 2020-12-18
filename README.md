@@ -4,5 +4,5 @@ Polybius,
 Caeser,
 Substitution
 
-## Tests
+## Tests:
 All tests were made with Mocha Chai
